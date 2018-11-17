@@ -127,5 +127,5 @@ You're now good to go and deploy other images!
 
 # Version
 
-Last tested on 2017 October 20th 
+Last tested on 2018 October 20th 
 macOS Sierra 10.12.6
