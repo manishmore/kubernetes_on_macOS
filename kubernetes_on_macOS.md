@@ -43,7 +43,7 @@ Great! You now have a running Kubernetes cluster locally. Minikube started a vir
 Should output something like:
 
     NAME       STATUS    ROLES     AGE       VERSION
-    minikube   Ready     <none>    40s       v1.7.5
+    minikube   Ready     master    40s       v1.10.0
     
 # Use minikube's built-in docker daemon:
 
